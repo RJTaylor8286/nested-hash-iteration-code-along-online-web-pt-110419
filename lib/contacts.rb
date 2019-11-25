@@ -11,4 +11,5 @@ contacts = {
   }
 }
 
-  :Freddy_Mercury =>
+  :Freddy_Mercury => favorite_ice_cream_flavors["cookie dough", "mint chip"]
+  
